@@ -8,19 +8,18 @@ Linki do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
       - [Moje notatki z...](link)
 
 1. [Erdanowski, Tomasz](http://terdanowski.github.io/)
-1. [Gisko, Alicja](http://agisko.github.io/)
-  - [Markdown doc](https://github.com/agisko/agisko.github.io/blob/master/herbaty/herbaty.md)
-  - [ASCII doc](https://github.com/agisko/agisko.github.io/blob/master/zadanie.adoc)
-  - [Podroz do Kataru](https://slides.com/alicja1981)
-1. [Jacewicz, Małgorzata](https://htmlpreview.github.io/?https://github.com/mjacewicz/mjacewicz.github.io/blob/master/index.html) 
-  - [README.md](notatki.md)
-  - [Moje podróże](http://slides.com/mjacewicz/deck)
+1. Gisko, Alicja
+1. Jacewicz, Małgorzata
 1. Łuksza, Natalia
 1. [Nowak, Łukasz](http://nowakl.github.io/)
     - [README.md](https://github.com/NowakL/Moje-notatki-z-J-zyk-w-programowania),         [README.adoc](https://github.com/NowakL/PSPI-1/blob/master/Kalistenika.asc)
     - [Wspomnienia z Salsy](http://slides.com/lukasznowak-1/deck/fullscreen#/)
     - [Moje notatki z Jezyki programowania](https://github.com/NowakL/Moje-notatki-z-J-zyk-w-programowania)
 1. [Nowicka, Beata](http://bnowicka.github.io/)
+    - [README.md](https://github.com/bnowicka/notatki1/readme.md), 
+    - [O mnie](http://bnowicka.github.io/o)
+    - [Techniki Judo](http://bnowicka.github.io/tech)
+    - [Stopnie Judo](http://bnowicka.github.io/stopnie)
 1. Ostapczuk, Andrzej
 1. [Selke, Marcin](http://mselke.github.io/)
     - [README.md](https://github.com/mselke/notatki/blob/master/readme.md), 
@@ -29,8 +28,8 @@ Linki do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
     - [Moje notatki z programowania](https://github.com/mselke/notatki/blob/master/zadania.md)
 1. [Skuza, Łukasz](https://github.com/lskuza/)
 1. [Sudomir-Gordon, Milena](http://msudomir.github.io/index.html)
-2. [slides](http://slides.com/milenasudomir/deck#/)
-3. README.md (https://github.com/msudomir/test/blob/master/README.md)
+   - [slides](http://slides.com/milenasudomir/deck#/)
+   - [README.md](https://github.com/msudomir/test/blob/master/README.md)
 1. [Mokrzycki, Rafał](http://rmokrzycki.github.io/)
     - [README.md](https://github.com/rmokrzycki/mc-donalds.md.git),      
       [README.asc](https://github.com/rmokrzycki/mc-donald.adoc.git)
